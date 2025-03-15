@@ -8,7 +8,7 @@ def send_email(receiver_email,subject,body):
     smtp_server = "smtp.gmail.com"  # Gmail SMTP server
     smtp_port = 587  # For starttls
     sender_email = "christophereleazar4@gmail.com"  # Your email
-    password = "yknb tvrw uibt zqrg"  # Your email password or App Password
+    password = ""  # Your email password or App Password
 
     
 
